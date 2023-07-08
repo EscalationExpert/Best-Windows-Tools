@@ -1,0 +1,370 @@
+{
+    "winget": {
+        "$schema": "https://aka.ms/winget-packages.schema.2.0.json",
+        "CreationDate": "2023-07-08 19:23:52.741069",
+        "Sources": [
+            {
+                "Packages": [
+                    {
+                        "PackageIdentifier": "XnSoft.XnView.Classic"
+                    },
+                    {
+                        "PackageIdentifier": "Wox.Wox"
+                    },
+                    {
+                        "PackageIdentifier": "AntibodySoftware.WizTree"
+                    },
+                    {
+                        "PackageIdentifier": "WiseCleaner.WiseProgramUninstaller"
+                    },
+                    {
+                        "PackageIdentifier": "ntwind.winsnap"
+                    },
+                    {
+                        "PackageIdentifier": "WinSCP.WinSCP"
+                    },
+                    {
+                        "PackageIdentifier": "RARLab.WinRAR"
+                    },
+                    {
+                        "PackageIdentifier": "SomePythonThings.WingetUIStore"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.WindowsTerminal"
+                    },
+                    {
+                        "PackageIdentifier": "MicrosoftCorporationII.WindowsSubsystemFor\u2026"
+                    },
+                    {
+                        "PackageIdentifier": "MicrosoftCorporationII.WindowsSubsystemFor\u2026"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.WingetCreate"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.WindowsADK"
+                    },
+                    {
+                        "PackageIdentifier": "Winamp.Winamp"
+                    },
+                    {
+                        "PackageIdentifier": "VMware.WorkstationPro"
+                    },
+                    {
+                        "PackageIdentifier": "VideoLAN.VLC"
+                    },
+                    {
+                        "PackageIdentifier": "VivaldiTechnologies.Vivaldi"
+                    },
+                    {
+                        "PackageIdentifier": "Canonical.Ubuntu.2204"
+                    },
+                    {
+                        "PackageIdentifier": "Ubisoft.Connect"
+                    },
+                    {
+                        "PackageIdentifier": "CodeSector.TeraCopy"
+                    },
+                    {
+                        "PackageIdentifier": "Valve.Steam"
+                    },
+                    {
+                        "PackageIdentifier": "StartIsBack.StartAllBack"
+                    },
+                    {
+                        "PackageIdentifier": "Stardock.Fences"
+                    },
+                    {
+                        "PackageIdentifier": "SlackTechnologies.Slack"
+                    },
+                    {
+                        "PackageIdentifier": "PunkLabs.RocketDock"
+                    },
+                    {
+                        "PackageIdentifier": "RevoUninstaller.RevoUninstaller"
+                    },
+                    {
+                        "PackageIdentifier": "RealtekSemiconductorCorp.RealtekAudioContr\u2026"
+                    },
+                    {
+                        "PackageIdentifier": "Rainmeter.Rainmeter"
+                    },
+                    {
+                        "PackageIdentifier": "qBittorrent.qBittorrent"
+                    },
+                    {
+                        "PackageIdentifier": "ProtonTechnologies.ProtonVPN"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.PowerShell"
+                    },
+                    {
+                        "PackageIdentifier": "pnpm.pnpm"
+                    },
+                    {
+                        "PackageIdentifier": "dotPDNLLC.paintdotnet"
+                    },
+                    {
+                        "PackageIdentifier": "Nvidia.PhysX"
+                    },
+                    {
+                        "PackageIdentifier": "Nvidia.GeForceExperience"
+                    },
+                    {
+                        "PackageIdentifier": "NotionRepackaged.NotionEnhanced"
+                    },
+                    {
+                        "PackageIdentifier": "Notepad++.Notepad++"
+                    },
+                    {
+                        "PackageIdentifier": "Mozilla.Firefox"
+                    },
+                    {
+                        "PackageIdentifier": "MiXXX.MiXXX"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.XNARedist"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.DotNet.DesktopRuntime.7"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.DotNet.DesktopRuntime.7"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.DotNet.DesktopRuntime.6"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.DotNet.DesktopRuntime.5"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.VisualStudioCode"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.VCRedist.2013.x64"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.VCRedist.2013.x64"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.VCRedist.2013.x64"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.VCRedist.2012.x86"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.VCRedist.2012.x64"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.VCRedist.2010.x86"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.VCRedist.2010.x64"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.VCRedist.2008.x64"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.VCRedist.2008.x86"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.OneDrive"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.EdgeWebView2Runtime"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.Edge"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.DotNet.AspNetCore.7"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.DotNet.AspNetCore.7"
+                    },
+                    {
+                        "PackageIdentifier": "MicaForEveryone.MicaForEveryone"
+                    },
+                    {
+                        "PackageIdentifier": "Malwarebytes.Malwarebytes"
+                    },
+                    {
+                        "PackageIdentifier": "Logitech.OptionsPlus"
+                    },
+                    {
+                        "PackageIdentifier": "KeeWeb.KeeWeb"
+                    },
+                    {
+                        "PackageIdentifier": "DominikReichl.KeePass"
+                    },
+                    {
+                        "PackageIdentifier": "AppWork.JDownloader"
+                    },
+                    {
+                        "PackageIdentifier": "HandyOrg.HandyWinget-GUI"
+                    },
+                    {
+                        "PackageIdentifier": "Google.Drive"
+                    },
+                    {
+                        "PackageIdentifier": "Google.Chrome"
+                    },
+                    {
+                        "PackageIdentifier": "Git.Git"
+                    },
+                    {
+                        "PackageIdentifier": "PeterPawlowski.foobar2000"
+                    },
+                    {
+                        "PackageIdentifier": "BlastApps.FluentSearch"
+                    },
+                    {
+                        "PackageIdentifier": "Flow-Launcher.Flow-Launcher"
+                    },
+                    {
+                        "PackageIdentifier": "valinet.ExplorerPatcher"
+                    },
+                    {
+                        "PackageIdentifier": "stnkl.EverythingToolbar"
+                    },
+                    {
+                        "PackageIdentifier": "voidtools.Everything"
+                    },
+                    {
+                        "PackageIdentifier": "EpicGames.EpicGamesLauncher"
+                    },
+                    {
+                        "PackageIdentifier": "EclipseAdoptium.Temurin.8.JDK"
+                    },
+                    {
+                        "PackageIdentifier": "ElectronicArts.EADesktop"
+                    },
+                    {
+                        "PackageIdentifier": "Discord.Discord"
+                    },
+                    {
+                        "PackageIdentifier": "ALCPU.CoreTemp"
+                    },
+                    {
+                        "PackageIdentifier": "Chocolatey.ChocolateyGUI"
+                    },
+                    {
+                        "PackageIdentifier": "Chocolatey.Chocolatey"
+                    },
+                    {
+                        "PackageIdentifier": "Amazon.AWSCLI"
+                    },
+                    {
+                        "PackageIdentifier": "Audacity.Audacity"
+                    },
+                    {
+                        "PackageIdentifier": "AOMEI.Backupper"
+                    },
+                    {
+                        "PackageIdentifier": "AdvancedMicroDevicesInc-2.AMDRadeonSoftwar\u2026"
+                    },
+                    {
+                        "PackageIdentifier": "AIMP.AIMP"
+                    },
+                    {
+                        "PackageIdentifier": "IObit.AdvancedSystemCare"
+                    },
+                    {
+                        "PackageIdentifier": "7zip.7zip"
+                    },
+                    {
+                        "PackageIdentifier": "AgileBits.1Password"
+                    }
+                ],
+                "SourceDetails": {
+                    "Argument": "https://cdn.winget.microsoft.com/cache",
+                    "Identifier": "Microsoft.Winget.Source_8wekyb3d8bbwe",
+                    "Name": "winget",
+                    "Type": "Microsoft.PreIndexed.Package"
+                }
+            }
+        ],
+        "WinGetVersion": "v1.5.1572\r"
+    },
+    "scoop": {
+        "apps": [
+            {
+                "Name": "secureuxtheme"
+            },
+            {
+                "Name": "nvm"
+            },
+            {
+                "Name": "git"
+            },
+            {
+                "Name": "cmder-full"
+            },
+            {
+                "Name": "anydesk"
+            },
+            {
+                "Name": "7zip"
+            }
+        ]
+    },
+    "chocolatey": {
+        "apps": [
+            {
+                "Name": "vcredist140"
+            },
+            {
+                "Name": "KB3063858"
+            },
+            {
+                "Name": "KB3035131"
+            },
+            {
+                "Name": "KB3033929"
+            },
+            {
+                "Name": "KB2999226"
+            },
+            {
+                "Name": "KB2919442"
+            },
+            {
+                "Name": "KB2919355"
+            },
+            {
+                "Name": "dotnet-desktopruntime"
+            },
+            {
+                "Name": "dotnet-7.0-desktopruntime"
+            },
+            {
+                "Name": "chocolatey-windowsupdate.extension"
+            },
+            {
+                "Name": "chocolatey-core.extension"
+            },
+            {
+                "Name": "chocolatey-compatibility.extension"
+            },
+            {
+                "Name": "Chocolatey"
+            }
+        ]
+    },
+    "pip": {
+        "apps": []
+    },
+    "npm": {
+        "apps": [
+            {
+                "Name": "pnpm"
+            },
+            {
+                "Name": "npm"
+            },
+            {
+                "Name": "corepack"
+            }
+        ]
+    }
+}
